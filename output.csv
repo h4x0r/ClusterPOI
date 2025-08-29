@@ -1,0 +1,11 @@
+description,lat,lon,name,cluster
+San Francisco,37.7749,-122.4194,Point A,0
+Near SF,37.7849,-122.4094,Point B,0
+Near SF 2,37.7649,-122.4294,Point C,0
+New York,40.7128,-74.0060,Point D,1
+Near NYC,40.7228,-74.0160,Point E,1
+Near NYC 2,40.7028,-73.9960,Point F,1
+Los Angeles,34.0522,-118.2437,Point G,2
+Near LA,34.0622,-118.2337,Point H,2
+London,51.5074,-0.1278,Point I,-1
+Paris,48.8566,2.3522,Point J,-1
