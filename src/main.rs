@@ -13,7 +13,6 @@ use std::path::PathBuf;
 #[command(author, version, about, long_about = None)]
 struct Cli {
     /// Input CSV file with lat/long data
-    #[arg(short, long)]
     input: PathBuf,
 
     /// Output CSV file with cluster information
